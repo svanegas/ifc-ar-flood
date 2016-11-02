@@ -1,0 +1,25 @@
+{
+  "name": "drone-it",
+  "version": "1.0.0",
+  "description": "Interactive HTML5 Augmented Reality Flood Simulation ====================================================",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svanegas/ifc-ar-flood.git"
+  },
+  "author": "skeelogy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svanegas/ifc-ar-flood/issues"
+  },
+  "homepage": "https://github.com/svanegas/ifc-ar-flood#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
